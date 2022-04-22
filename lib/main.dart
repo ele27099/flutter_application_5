@@ -23,7 +23,7 @@ class MandarinaApp extends StatelessWidget {
               ),
             ),
             Text(
-              "Mery Molina",
+              "Mery Molinaaaa",
               style: TextStyle(
                   color: Color.fromRGBO(255, 255, 255, 0.6),
                   fontSize: 70,
